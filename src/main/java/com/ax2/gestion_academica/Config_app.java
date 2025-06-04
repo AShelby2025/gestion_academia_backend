@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 import java.util.List;
 
 /**
- * created by sinNombre on Mar, 26/03/2025
+ * created by Angela on Mar, 02/06/2025
  */
 @Configuration
 public class Config_app {

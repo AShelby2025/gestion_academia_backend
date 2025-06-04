@@ -7,7 +7,7 @@ import jakarta.persistence.*;
 
 
 /**
- * created by sinNombre on Mar, 27/03/2025
+ * created by Angela, 02/06/2025
  */
 
 @Entity(name = "StudentIdCard")

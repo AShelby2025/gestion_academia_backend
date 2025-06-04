@@ -5,7 +5,7 @@ import jakarta.persistence.Column;
 import jakarta.persistence.*;
 
 /**
- * created by sinNombre on Mar, 26/03/2025
+ * created by Angela on Mar, 02/06/2025
  */
 @Entity(name= "Students")
 @Table(name="Students",
