@@ -1,0 +1,93 @@
+# ----------------------------------------
+# JAVA / MAVEN / SPRING BOOT
+# ----------------------------------------
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Logs
+*.log
+
+# IDEAS
+*.class
+*.jar
+*.war
+*.ear
+
+# ----------------------------------------
+# IntelliJ IDEA
+# ----------------------------------------
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# ----------------------------------------
+# Eclipse / Spring Tool Suite (STS)
+# ----------------------------------------
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# ----------------------------------------
+# NetBeans
+# ----------------------------------------
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# ----------------------------------------
+# Visual Studio Code
+# ----------------------------------------
+.vscode/
+
+# ----------------------------------------
+# OS-specific
+# ----------------------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------
+# NODE / FRONTEND (si usas React o similar)
+# ----------------------------------------
+node_modules/
+dist/
+build/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ----------------------------------------
+# ARCHIVOS TEMPORALES
+# ----------------------------------------
+*.tmp
+*.swp
+*.bak
+*.old
+*~
+
+# ----------------------------------------
+# DOCUMENTACIÓN / ARCHIVOS PERSONALES
+# ----------------------------------------
+HELP.md
+README.txt
+*.md.save
